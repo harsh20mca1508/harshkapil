@@ -1,0 +1,28 @@
+header{
+    border: 2px;
+    background-color: rgb(255, 173, 241);
+    padding: 10px;
+    margin: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 5px;
+}
+.a1{
+    padding: 60px;
+    text-align: center;
+    margin-left: 15px;
+    text-decoration: none;
+    color: white;
+    font-family: Atma;
+}
+.bg{
+    background-image: url(img001.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+h2,h3{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family: Atma;
+}
